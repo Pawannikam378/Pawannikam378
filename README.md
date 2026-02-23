@@ -85,4 +85,5 @@ I build real-world hardware + software systems where electronics meets AI.
 ---
 
 ⭐ *Always building. Always learning.*
+Thank you 
 
