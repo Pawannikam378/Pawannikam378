@@ -57,8 +57,6 @@ I build real-world hardware + software systems where electronics meets AI.
 - Web scraping  
 - Data analysis with Python  
 - Real-world datasets  
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pawannikam378) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pawan Nikam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pawannikam378@gmail.com) 
 
 ## 📫 Connect With Me  
 
