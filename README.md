@@ -29,7 +29,9 @@ I build real-world hardware + software systems where electronics meets AI.
 - ESP32  
 - Arduino  
 - W5500 Ethernet Module  
-- Sensors & Actuators  
+- Sensors & Actuators
+- PLC
+- HMI
 
 ### 🌐 Tools
 - Git & GitHub  
