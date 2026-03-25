@@ -6,7 +6,7 @@ Python | Data Science | Embedded Systems | ML
 
 I’m a final-year engineering student passionate about building real-world tech solutions. My interests lie in Data Science, Embedded Systems, and Cybersecurity. I enjoy working on projects that combine hardware and software, such as smart automation systems and AI-based applications. Currently, I am focused on strengthening my problem-solving skills and building impactful projects for real-world use.
 
-* 🌍  I'm based in India
+* 🌍  I'm based in India Maharashtra 
 * ✉️  You can contact me at [pawannikam378@gmail.com](mailto:pawannikam378@gmail.com)
 * 🧠  I'm currently learning Data Science, Machine Learning, System Design and PLC
 * 👥  I'm looking to collaborate on AI/ML, IoT, and Open Source Projects
